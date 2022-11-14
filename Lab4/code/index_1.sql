@@ -1,0 +1,1 @@
+CREATE INDEX statements_id ON "Н_ВЕДОМОСТИ" USING btree ("ИД")
